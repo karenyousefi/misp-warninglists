@@ -1280,6 +1280,7 @@
     "brandallday.net",
     "brashbeat.online",
     "brasx.org",
+    "brazbuzii.online",
     "breaite.com",
     "breakthru.com",
     "brefmail.com",
@@ -1707,6 +1708,7 @@
     "coreclip.com",
     "corhash.net",
     "cornwallaerospaceeducationtrust.org",
+    "corridor.bond",
     "cosdas.com",
     "cosmorph.com",
     "cosoinan.com",
@@ -3179,6 +3181,7 @@
     "goatmail.uk",
     "gob.re",
     "godfare.com",
+    "godulygmail.com",
     "goemailgo.com",
     "goeschman.com",
     "gohivezone.com",
@@ -5936,6 +5939,7 @@
     "pertera.com",
     "pesagilt.top",
     "peterdethier.com",
+    "peterhe-ai.bond",
     "petloca.com",
     "petrzilka.net",
     "pewpewpewpew.pw",
@@ -8724,5 +8728,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20260901
+  "version": 20260903
 }
