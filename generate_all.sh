@@ -19,8 +19,10 @@ python3 generate-covid.py
 python3 generate-ibm.py
 python3 generate-crl-ip-domains.py
 python3 generate-disposal.py
+python3 generate-dynamic-dns.py
 python3 generate-hetzner.py
 python3 generate-google.py
+python3 generate-sinkholes.py
 python3 generate-coreweave.py
 python3 generate_majestic-million.py -n 10000
 python3 generate-microsoft-azure.py
@@ -33,6 +35,7 @@ python3 generate-leaseweb.py
 python3 generate_phone_numbers.py
 #python3 generate-stackpath.py  # source https://k3t9x2h3.map2.ssl.hwcdn.net/ipblocks.txt is dead (NXDOMAIN); StackPath wound down its CDN and hwcdn.net is now a parked domain-for-sale page
 python3 generate-tlds.py
+python3 generate-rfc6761.py
 python3 generate-salesforce.py
 python3 generate-github.py
 python3 generate-vultr.py
@@ -51,6 +54,7 @@ python3 generate-google-bot.py
 python3 generate-google-gmail-sending-ips.py
 python3 generate-smtp.py
 python3 generate-tenable.py
+python3 generate-telegram-ips.py
 python3 generate-microsoft-azure-appid.py
 python3 generate-chrome-crux-1m.py
 python3 generate-digitalside.py
