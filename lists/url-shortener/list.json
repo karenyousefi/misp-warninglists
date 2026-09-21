@@ -111,6 +111,7 @@
     "kutti.co",
     "l.ead.me",
     "lc.cx",
+    "lihi.cc",
     "link.zip.net",
     "linksshortcut.com",
     "linkto.im",
@@ -178,6 +179,8 @@
     "scanned.page",
     "scrnch.me",
     "shly.link",
+    "short-links.org",
+    "shorta.link",
     "shorten.ee",
     "shorten.is",
     "shorten.tv",
@@ -266,5 +269,5 @@
   ],
   "name": "List of known URL Shorteners domains",
   "type": "hostname",
-  "version": 20260819
+  "version": 20260921
 }
